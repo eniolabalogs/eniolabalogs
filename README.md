@@ -12,7 +12,7 @@ I'm currently working on different projects involving Machine learning and AI. I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eniolabalogs&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eniolabalogs&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ RandomDev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
