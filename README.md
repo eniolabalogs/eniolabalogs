@@ -3,7 +3,7 @@
 I'm currently working on different projects involving Machine learning and AI. I am also working on Full-Stack development.<br>I'm looking to collaborate on my projects and any contribution is welcome.<br>I'm seeking help understanding and developing as a software engineer so any software engineer is welcome to connect.<br>I'm currently learning Java, JavaScript, and SQL.<br>You are welcome to ask me about any projects you are interested in and would love to collaborate with me.<br>I love Soccer,hanging out with friends, and love solving problems.
 
 
-## 🌐Socials:
+## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oyindamola-balogun) 
 
 # 💻 Tech Stack:
